@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.demo.bean.PersonLoad",
+      "name": "personload",
+      "type": "com.example.demo.bean.PersonLoad"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.demo.bean.PersonLoad",
+      "name": "personload.addr",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.example.demo.bean.PersonLoad",
+      "name": "personload.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.example.demo.bean.PersonLoad",
+      "name": "personload.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
